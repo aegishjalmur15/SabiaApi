@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+#enviroment 
+.env
+
+#uploads folder2
+/uploads
+
+#ormconfig
+/ormconfig.json
